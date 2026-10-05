@@ -1,0 +1,18 @@
+# Configuracion privada de la base de datos
+datos/ConfigBD.h
+
+# Archivos generados por Qt y MinGW
+Makefile
+Makefile.*
+*.o
+*.obj
+debug/
+release/
+build-*/
+
+# Entregables compilados
+*.exe
+*.zip
+
+# Configuracion local de Qt Creator
+*.pro.user*
